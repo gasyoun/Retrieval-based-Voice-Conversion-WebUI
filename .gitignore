@@ -26,3 +26,6 @@ rmvpe.pt
 /assets/weights/*
 ffmpeg.*
 ffprobe.*
+# audit sidecars
+.contributing_old.md
+.contributing_audit.txt
